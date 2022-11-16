@@ -115,19 +115,13 @@ Keterangan : root adalah tempat dimana sistem kita itu ter-install. swap adalah 
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/109257850/201941881-1112640f-83df-478d-ac1d-528e2607c048.png)
 
-25. Jika tahapan instalasi sudah selesai. Masukkan id beserta password yang sudah di set-up sebelumnya, Jika sudah maka anda telah berhasil melakukan instalasi ubuntu server.
+25. Jika tahapan instalasi sudah selesai. Masukkan id beserta password yang sudah di set-up sebelumnya, Jika sudah maka telah berhasil melakukan instalasi ubuntu server.
 
  ![Screenshot (190)](https://user-images.githubusercontent.com/109257850/201943380-e878bcaf-d615-45dd-a059-cabeee6fc47a.png)
 
-26. 
+26. Setelah menginput id dan password nya, untuk memastikan apakah server masuk ke jaringan internet atau belum. Anda bisa ketik perintah "ping 8.8.8.8" dan bisa juga "ping google.com". Jika sudah anda akan dapat output seperti gambar di bawah.
 
-
-
-
-
-
-
-
+![Screenshot (198)](https://user-images.githubusercontent.com/109257850/202111799-555f6f99-7782-4a19-b7e0-0469c8648728.png)
 
 
 
