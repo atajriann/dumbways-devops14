@@ -167,12 +167,7 @@ pm2 start server.go
 
 # Jalankan localtunnel untuk aplikasi no 1 (wayshub-frontend)
 
-
-
-
-
-
-
+![Screenshot (272)](https://user-images.githubusercontent.com/109257850/202508197-51c45af4-dafe-4b05-85cf-30ebd7554156.png)
 
 
 
