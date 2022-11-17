@@ -1,2 +1,1 @@
-# Dumbways DevOps Batch14
-Repository for Dumbways DevOps bootcamp task
+# Dumbways DevOps Batch14 Tugas
