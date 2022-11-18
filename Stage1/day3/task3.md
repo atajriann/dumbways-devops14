@@ -20,6 +20,7 @@ cd wayshub-frontend
 ![Screenshot (210)](https://user-images.githubusercontent.com/109257850/202324820-2b0745e0-dc02-4890-ab73-771b83bef8f4.png)
 
 Langkah pertama saya akan menginstal engine-nya terlebih dahulu. Untuk instalasi bisa menggunakan perintah dibawah ini:
+
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 ![Screenshot (206)](https://user-images.githubusercontent.com/109257850/202322729-cd34f0d2-0963-4f70-8aed-2d39c999bb43.png)
@@ -31,9 +32,9 @@ Untuk menjalankan project ini, pastikan npm sudah terinstall pada komputer/lapto
 Tata cara menjalankan project:
 
 1. Install node modules
-npm install
+ npm install
 2. Jalankan project
-npm run start
+ npm run start
 
 Selanjutnya, pasang Node.js versi 16, dengan perintah berikut:
 nvm install 16 
