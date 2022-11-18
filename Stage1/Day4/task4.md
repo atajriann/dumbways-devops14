@@ -3,6 +3,7 @@ Git merupakan sebuah pengendali versi untuk mengelola versi source code program 
  
 # Rubah IP address di PC kalian (tes menggunakan command ssh)
 Bisa dengan menggunakan perintah berikut untuk mengganti IP.
+
 sudo nano /etc/netplan/00-installer-config.yaml
 
 ![Screenshot (264)](https://user-images.githubusercontent.com/109257850/202496914-ea544f44-d7c6-46e5-95f2-c121fe13b7ec.png)
@@ -15,6 +16,68 @@ Setelah itu akan test menggunakan test mengunakan ssh, gunakan perintah -> ssh (
 Dibawah merupakan contoh jika berhasil menggunakan test ssh
 
 ![Screenshot (268)](https://user-images.githubusercontent.com/109257850/202499014-40b82da5-5511-4aee-aeae-8fc8618eb816.png)
+
+
+# Hubungkan github ke server yang kita miliki. 
+
+Bisa menggunakan perintah berikut untuk menghubungkan akun github:
+
+git config --global user.name "your.github-user.name"
+git config --global user.email "your.github-user.email"
+
+![Screenshot (273)](https://user-images.githubusercontent.com/109257850/202591302-025c6b04-a0d5-4022-bf27-c907dd6470e4.png)
+
+# Membuat 3 branch untuk repository 
+
+Bisa menggunakan perintah berikut:
+
+# 1. git branch
+git branch <nama branch-nya>
+ 
+![Screenshot (282)](https://user-images.githubusercontent.com/109257850/202596303-322354b0-1515-4094-a1d0-a01962efca2e.png)
+
+ # 2. git checkout 
+ Perintah ini adalah untuk berpindah branch 
+ 
+ ![Screenshot (283)](https://user-images.githubusercontent.com/109257850/202596476-a35c0f5f-4d81-4880-aa1c-ad7b17af1134.png)
+
+ # 3. git branch -m
+Perintah diatas untuk membuat branch baru serta pindah kedalam branch tersebut
+
+ ![Screenshot (285)](https://user-images.githubusercontent.com/109257850/202596689-bc3dac91-0c5a-446a-bf52-cbef91dcb051.png)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
