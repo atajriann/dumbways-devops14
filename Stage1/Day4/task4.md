@@ -45,13 +45,15 @@ git branch <nama branch-nya>
 Perintah diatas untuk membuat branch baru serta pindah kedalam branch tersebut
 
  ![Screenshot (285)](https://user-images.githubusercontent.com/109257850/202596689-bc3dac91-0c5a-446a-bf52-cbef91dcb051.png)
+ ![Screenshot (286)](https://user-images.githubusercontent.com/109257850/202596910-959fa446-7e5c-4a7c-9650-c754dc12bb4f.png)
  
+ ![Screenshot (290)](https://user-images.githubusercontent.com/109257850/202597589-285b7cab-66b7-472b-a565-3f7230c108fe.png)
+git branch -a adalah untuk melihat list branch yang dimiliki
 
-
-
-
-
-
+# 3 command git yang belum dijelaskan
+ - Git log adalah perintah untuk melihat riwayat pada project
+ - Git merge adalah suatu perintah untuk membuat branch yang bercabang menjadi satu kembali
+ - Git diff memberitahu kita secara mendetail apa saja perubahan yang terjadi di antara dua titik referensi Git.
 
 
 
