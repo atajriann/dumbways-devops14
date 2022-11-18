@@ -32,9 +32,9 @@ Untuk menjalankan project ini, pastikan npm sudah terinstall pada komputer/lapto
 Tata cara menjalankan project:
 
 1. Install node modules
- npm install
+ -> npm install
 2. Jalankan project
- npm run start
+ -> npm run start
 
 Selanjutnya, pasang Node.js versi 16, dengan perintah berikut:
 nvm install 16 
