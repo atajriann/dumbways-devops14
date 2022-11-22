@@ -64,7 +64,7 @@ Pertama kita bikin branch nya terlebih dahulu
 
 ![Screenshot (328)](https://user-images.githubusercontent.com/109257850/203195712-0d63181e-b0df-4cbf-bcdb-ec2746e13ffb.png)
 
-lalu lihat di laman Cloudflare di "all deployments" untuk melihat hasilnya.
+Lalu lihat di laman Cloudflare di "all deployments" untuk melihat hasilnya.
 
 ![Screenshot (329)](https://user-images.githubusercontent.com/109257850/203195914-daaec2a3-a17d-4bea-bc33-5296c69535b1.png)
 
