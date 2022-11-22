@@ -60,27 +60,13 @@ Sekarang akan mencoba mempraktekkan bagaimana cara kerja dari CI/CD, setiap ada 
 ![Screenshot (319)](https://user-images.githubusercontent.com/109257850/202973288-fd74117b-0f3a-4436-a9c0-dc039fab67a9.png)
 
 # Deploy 2 branch berbeda
-Disini saya akan melakukan deployment lagi tetapi berbedangan aplikasi sebelumnya, kali ini saya aku melakukan deployment dengan aplikasi bernama "wayshub-frontend"
-Caranya sama aja seperti sebelumnya.
+Pertama kita bikin branch nya terlebih dahulu 
 
-1. Masuk ke "Pages" lalu kalian bakal masuk ke akun github dan setelah itu pilih repo yang ingin di deploy, pastikan berbeda dengan aplikasi yang sebelumnya kita pernah deploy
-![Screenshot (321)](https://user-images.githubusercontent.com/109257850/202973907-db183d6b-b809-40aa-a49e-369c2ee31bbb.png)
-![Screenshot (322)](https://user-images.githubusercontent.com/109257850/202973915-53b2f19f-d20c-4291-b217-78380df13f10.png)
+![Screenshot (328)](https://user-images.githubusercontent.com/109257850/203195712-0d63181e-b0df-4cbf-bcdb-ec2746e13ffb.png)
 
-2. Lalu lakukan lakukan build setting seperti sebelumnya
-![Screenshot (323)](https://user-images.githubusercontent.com/109257850/202974176-c33a0fa8-4199-4e35-bf7f-3950af3896c8.png)
-![Screenshot (324)](https://user-images.githubusercontent.com/109257850/202974219-cdf369fe-9f74-41f4-a5e4-52cf2f017736.png)
- 
+lalu lihat di laman Cloudflare di "all deployments" untuk melihat hasilnya.
 
-![Screenshot (325)](https://user-images.githubusercontent.com/109257850/202974289-0803b53c-01d5-4047-9610-59e18432cc39.png)
-
-Dan inilah hasilnya
-![Screenshot (326)](https://user-images.githubusercontent.com/109257850/202974403-74d2a987-42c8-4684-8bf3-1806f01c39fe.png)
-
-Berikut ada 2 project yang berhasil kita branch
-
-![Screenshot (327)](https://user-images.githubusercontent.com/109257850/202974516-b06eadc7-77f8-49a3-8f3d-be7f3343c31e.png)
-
+![Screenshot (329)](https://user-images.githubusercontent.com/109257850/203195914-daaec2a3-a17d-4bea-bc33-5296c69535b1.png)
 
 
 
