@@ -102,10 +102,9 @@ ps -f -u <your-user>
 
 # Buat script instalasi node version manager menggunakan BASH
   
-  
+![Screenshot (374)](https://user-images.githubusercontent.com/109257850/203678654-e1ec6f39-e1aa-4382-b4c7-8df2d66ac9ca.png)
 
-
-
+![Screenshot (376)](https://user-images.githubusercontent.com/109257850/203678687-34fb92d2-201b-45e0-862b-59eac70c89e4.png)
 
 
 
