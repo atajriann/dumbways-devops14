@@ -49,7 +49,7 @@ server {
     server_name ajaytajrian.xyz;
     
     location / {
-             proxy_pass http://172.19.29.245:3000;
+             proxy_pass http://192.168.0.13:3000;
     }
 }
  
