@@ -21,7 +21,7 @@ Setelah git clone lalu masuk ke direktorinya dumbflix dan lalukan install npm un
 ![Screenshot (409)](https://user-images.githubusercontent.com/109257850/203881879-ba758c60-4395-424d-83df-6846f0f4d0ba.png)
 
 Lalu jalankan pm2 dengan perintah :
--> pm2 start npm --name "dumbflix-frontend" --start
+-> pm2 start npm --name "dumbflix_frontend" -- start
 
 ![Screenshot (414)](https://user-images.githubusercontent.com/109257850/203884636-fe8759d4-cbc0-4fb5-80bb-ffe71cc96a7f.png)
 
@@ -91,8 +91,8 @@ setelah itu kita perlu masuk ke dalam konfigurasi reverse proxy yang sudah kita 
 selanjutnya, tambahkan konfigurasi ke IP di vm kedua
 
 upstream domain {
-    server 192.168.0.11:3000;
-    server 192.168.0.7:3000;
+    server 192.168.0.14:3000;
+    server 192.168.0.13:3000;
 }
 server {
     server_name ajaytajrian.xyz;
@@ -107,8 +107,9 @@ server {
 lalu lakukan cek syntak -> sudo nginx -t
 lalu lakukan restart -> sudo systemctl restart nginx 
  
+Coba matikan pm2 nya di salah satu vm, jika masih berjalan websitenya. Selamat load balancing berjalan sempurna!
+![Screenshot (420)](https://user-images.githubusercontent.com/109257850/204124195-e8b14ab0-a1c3-414b-af86-9c928ccb3bd1.png)
 
- 
  
  
  
